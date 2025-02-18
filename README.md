@@ -1,12 +1,23 @@
-## Hi, my name is Endy Micaelle! 👋
+## Endy Micaelle!
 
-<!--
-**EndyMicaelle/EndyMicaelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor FrontEnd**
 
-<h1>About Me<h1>
+🌱 Atualmente estou aprendendo: **HTML, CSS e JavaScript**  
+📫 Como me encontrar: [LinkedIn](linkedin.com/in/endymicaelle) 
+⚡ Curiosidade: **Adoro compartilhar meu conhecimento com a comunidade.**
 
-:computer: I am a developer [Front End]
-I study Front End
+---
+
+### Projetos:
+
+- [Meu Portfólio](https://github.com/EndyMicaelle)
+
+---
+
+**Tecnologias que uso**:
+- Linguagens: HTML, CSS e JavaScript.
+- Ferramentas: Github.
+
 
 -->
 
